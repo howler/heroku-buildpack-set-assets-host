@@ -1,0 +1,22 @@
+{
+  "name": "heroku-buildpack-set-assets-host",
+  "version": "1.1.0",
+  "description": "Set ASSETS_HOST",
+  "main": "lib/export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howler/heroku-buildpack-set-assets-host.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howler/heroku-buildpack-set-assets-host/issues"
+  },
+  "homepage": "https://github.com/howler/heroku-buildpack-set-assets-host#readme",
+  "dependencies": {
+
+  }
+}
